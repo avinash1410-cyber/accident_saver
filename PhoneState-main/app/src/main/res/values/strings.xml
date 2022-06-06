@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">telephony</string>
+    <string name="permissions_denial">No Thanks</string>
+</resources>
